@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleIdentifier</key>
 	<string>MultiMC</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
 	<key>CFBundleExecutable</key>
 	<string>MultiMC</string>
 	<key>CFBundleIconFile</key>
